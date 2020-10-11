@@ -1,7 +1,5 @@
 # Document Router
 
-This is the README for your extension "document-router". After writing up a brief description, we recommend including the following sections.
-
 ## なにこれ？
 
 vscodeの拡張機能。  

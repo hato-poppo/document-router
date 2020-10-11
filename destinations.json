@@ -1,0 +1,34 @@
+{ 
+  "cr": "https://crystal-lang.org/docs/",
+  "cs": "https://docs.microsoft.com/en-us/dotnet/csharp/",
+  "css": {
+    "MDN": "https://developer.mozilla.org/en-US/docs/Web/CSS/Reference"
+  },
+  "dart": "https://dart.dev/guides",
+  "dockerfile": "https://docs.docker.com/engine/reference/builder/",
+  "go": "https://golang.org/doc/",
+  "html": {
+    "HTML": "https://html.spec.whatwg.org/",
+    "MDN": "https://developer.mozilla.org/en-US/docs/Web/HTML"
+  },
+  "java": "https://docs.oracle.com/en/java/index.html",
+  "jl": "https://docs.julialang.org/en/v1/",
+  "js": {
+    "MDN": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference"
+  },
+  "pl": "https://www.perl.org/docs.html",
+  "py": "https://docs.python.org/3/",
+  "rb": {
+    "Ruby": "https://docs.ruby-lang.org/en/master/",
+    "Rails Doc": "https://railsdoc.com/",
+    "Rails Guide": "https://guides.rubyonrails.org/"
+  },
+  "rs": "https://www.rust-lang.org/learn",
+  "scala": "https://docs.scala-lang.org/",
+  "ts": "https://www.typescriptlang.org/docs",
+  "vue": {
+    "Guide": "https://v3.vuejs.org/guide/introduction.html",
+    "API Ref": "https://v3.vuejs.org/api/",
+    "Style": "https://vue-styleguidist.github.io/docs/Documenting.html"
+  }
+}

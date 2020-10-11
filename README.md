@@ -9,13 +9,12 @@ vscodeの拡張機能。
 ### 公式ドキュメントが登録されている場合
 
 「公式ドキュメントを開く」をクリックすると、そのファイルに応じたURLを開く
-![single](https://user-images.githubusercontent.com/60541680/95679962-19195500-0c11-11eb-9f9e-81c0f238a1f5.gif)
+![single](https://user-images.githubusercontent.com/60541680/95682457-44577080-0c20-11eb-94c8-00699673112f.gif)
 
 ### リンク先が複数登録されている場合
 
 「公式ドキュメントを開く」をクリックすると、右下に選択用のボタンが表示される
-![multi](https://user-images.githubusercontent.com/60541680/95679854-77920380-0c10-11eb-84d4-f5b42dc53bc2.gif)
-
+![multi](https://user-images.githubusercontent.com/60541680/95682454-40c3e980-0c20-11eb-9bd0-fb19ad146cc2.gif)
 
 ## プログラミング言語のラインナップについて
 
